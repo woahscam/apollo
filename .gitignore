@@ -9,7 +9,6 @@
 *.class
 *.iml
 
-/game/data/rsa.pem
 /game/data/savedGames
 /lib/
 */target/
